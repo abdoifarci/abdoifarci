@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdoifarci
-- 👀 I’m interested in machine learning & artificial intelligence 
-- 🌱 I’m currently learning back end developement  
+- 👀 I’m interested in ARTIFICIAL INTELLIGENCE  
+- 🌱 I’m currently learning SOFTWARE ENGINNERING  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 <!---
